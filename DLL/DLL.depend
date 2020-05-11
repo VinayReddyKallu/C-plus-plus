@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582621322 source:c:\users\vk185157\onedrive - ncr corporation\desktop\repos\dll\main.cpp
+	"main.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+
+1582621170 c:\users\vk185157\onedrive - ncr corporation\desktop\repos\dll\main.h
+	<windows.h>
+

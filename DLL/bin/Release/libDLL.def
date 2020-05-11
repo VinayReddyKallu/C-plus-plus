@@ -1,0 +1,4 @@
+EXPORTS
+    DllMain@12 @1
+    file_read @2
+    file_write @3
